@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Ignacio Malessa 👋
 
-<!--
-**ignacioMalessaNeto/ignacioMalessaNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developor. And, I´m  studying web developiment at [Rocketseat](https://app.rocketseat.com.br/dashboard).
 
-Here are some ideas to get you started:
+#### Current Stack 
+- :zap: Main language `JavaScript`
+- :tada: Front-end `HTML5`, `CSS`, `JavaScript`
+- 📡 Back-end `Node.JS`
+- :art: Layout desing `Figma`
+- :package: Version code control `Git & Github`
+- :hammer: Tolls `Vs.code` `Markdown` 
+- 🌎 I´m mostley active within the ´Rockteseat community´
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contatcs
+- 📬 Email: igmalessa@gmail.com 
+- 🗣️ Linkedin: [Linkedin](https://www.linkedin.com/in/ignacio-malessa-neto-2a8142229/)
