@@ -4,9 +4,9 @@
 I'm a Web Developor. And, I´m  studying web developiment at [Rocketseat](https://app.rocketseat.com.br/dashboard).
 
 #### Current Stack 
-- :zap: Main language `JavaScript`
+- :zap: Main language `JavaScript` `React`
 - :tada: Front-end `HTML5`, `CSS`, `JavaScript`
-- 📡 Back-end `Node.JS`
+- 📡 Back-end `SqLite`
 - :art: Layout desing `Figma`
 - :package: Version code control `Git & Github`
 - :hammer: Tolls `Vs.code` `Markdown` 
