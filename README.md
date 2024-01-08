@@ -5,7 +5,7 @@ I'm a Web Developor. And, I´m  studying web developiment at [Rocketseat](https:
 
 #### Current Stack 
 - :zap: Main language `JavaScript` `React`
-- :tada: Front-end `HTML5`, `CSS`, `JavaScript`
+- :tada: Front-end `HTML5`, `CSS`, `JavaScript`, `React`
 - 📡 Back-end `SqLite`
 - :art: Layout desing `Figma`
 - :package: Version code control `Git & Github`
