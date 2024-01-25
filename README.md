@@ -10,7 +10,6 @@ I'm a Web Developor full stack.
 - :art: Layout desing `Figma`
 - :package: Version code control `Git & Github`
 - :hammer: Tolls `Vs.code` `Markdown` 
-- 🌎 I´m mostley active within the ´Rockteseat community´
 
 #### Contatcs
 - 📬 Email: igmalessa@gmail.com 
