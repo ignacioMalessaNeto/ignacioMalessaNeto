@@ -36,7 +36,7 @@ Chat web que envia perguntas a um back-end PHP, que funciona como proxy para a A
 CRUD de autores e livros com paginação e layout responsivo (tabela no desktop, cards no celular). Roda localmente ou em container.
 `React` `Vite` `Ant Design` `Docker`
 
-### Food Explorer — [front-end](https://github.com/ignacioMalessaNeto/FoodExplorer) · [API](https://github.com/ignacioMalessaNeto/backendFoodExplorer)
+### Food Explorer  [front-end](https://github.com/ignacioMalessaNeto/FoodExplorer) · [API](https://github.com/ignacioMalessaNeto/backendFoodExplorer)
 Cardápio digital com dois perfis: o cliente busca pratos e faz pedidos; o administrador cadastra e edita pratos. API com autenticação JWT e upload de imagens.
 `React` `Node.js` `Express` `Knex` `SQLite`
 
@@ -44,11 +44,11 @@ Cardápio digital com dois perfis: o cliente busca pratos e faz pedidos; o admin
 
 ## Projetos profissionais
 
-Código privado — posso apresentar os detalhes em entrevista.
+Código privado  posso apresentar os detalhes em entrevista.
 
-- **Sistema de gestão para academia** (produto próprio) — alunos, planos e assinaturas, com cobrança recorrente pelo gateway ASAAS. Laravel + React.
-- **Envia Currículo** (sócio e desenvolvedor) — plataforma de currículos e vagas que conecta empresas, candidatos e consultores. Laravel + React.
-- **Bazar Amigos da Casa** (voluntário) — controle de estoque e gestão financeira de um bazar que arrecadou mais de R$ 100 mil para a instituição. Laravel.
+- **Sistema de gestão para academia** (produto próprio)  alunos, planos e assinaturas, com cobrança recorrente pelo gateway ASAAS. Laravel + React.
+- **Envia Currículo** (sócio e desenvolvedor)  plataforma de currículos e vagas que conecta empresas, candidatos e consultores. Laravel + React.
+- **Bazar Amigos da Casa** (voluntário)  controle de estoque e gestão financeira de um bazar que arrecadou mais de R$ 100 mil para a instituição. Laravel.
 
 ---
 
